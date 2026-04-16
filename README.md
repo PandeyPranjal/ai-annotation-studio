@@ -5,7 +5,7 @@ A human-in-the-loop AI evaluation system designed to simulate real-world data an
 ---
 
 ## 🚀 Live Demo
-👉 [Add your deployed Streamlit link here]
+👉 [https://ai-annotation-studio-vkwaahe6y8nziq3xgmak5f.streamlit.app/]
 
 ---
 
